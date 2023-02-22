@@ -4,60 +4,88 @@
 
 
 {
-         "name": "Dtac-VIP01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d1.ovpn"
+         "name": "SG-AIS-FREE1",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-01-A.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d2.ovpn"
+         "name": "SG-DTAC-FREE1",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-01-D.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d3.ovpn"
+         "name": "SG-TRUE-FREE1",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-01-T.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP04",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d4.ovpn"
+         "name": "SG-AIS-FREE2",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-02-A.ovpn"
       }
 ,
 {
-         "name": "Dtac-VIP05",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/d4.ovpn"
+         "name": "SG-DTAC-FREE2",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-02-D.ovpn"
       }
 ,
 {
-         "name": "True-VIP01",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t1.ovpn"
+         "name": "SG-TRUE-FREE2",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-02-T.ovpn"
       }
 ,
 {
-         "name": "True-VIP02",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t2.ovpn"
+         "name": "SG-AIS-FREE3",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-03-A.ovpn"
       }
 ,
 {
-         "name": "True-VIP03",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t3.ovpn"
+         "name": "SG-DTAC-FREE3",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-03-D.ovpn"
       }
 ,
 {
-         "name": "True-VIP04",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t4.ovpn"
+         "name": "SG-TRUE-FREE3",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-03-T.ovpn"
       }
 ,
 {
-         "name": "True-VIP05",
-         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/t5.ovpn"
+         "name": "SG-AIS-FREE4",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-04-A.ovpn"
+      }
+{
+         "name": "SG-DTAC-FREE4",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-04-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE4",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-04-T.ovpn"
+      }
+,
+{
+         "name": "SG-AIS-FREE5",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-05-A.ovpn"
+      }
+{
+         "name": "SG-DTAC-FREE5",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-05-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE5",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SDSD/main/FREE-SG-05-T.ovpn"
       }
 
 
 
    ],
 "message":"
-👑Update 07/2/2023
+■■■■■■■■■■■■■■
+🔔Update 1.10
+■■■■■■■■■■■■■■
+📕True FREE NO pro
+📘Dtac FREE NO pro
+■■■■■■■■■■■■■■
 
 
 \n\nเวอร์ชั่นไฟล์:1",
